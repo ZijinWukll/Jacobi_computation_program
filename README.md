@@ -164,7 +164,7 @@ function jacobi(a, n):
 ### 2.1 目录结构
 
 ```
-E:/Desktop/数论作业5/
+folder/
 ├── include/              # 头文件
 │   ├── bigint.h          # 大整数类声明
 │   └── jacobi.h          # Jacobi 符号函数声明
